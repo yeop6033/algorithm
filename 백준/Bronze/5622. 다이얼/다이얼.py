@@ -1,0 +1,1 @@
+print(sum(min(5*ord(x)>>4,27)-17for x in input()))
